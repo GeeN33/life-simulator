@@ -1,0 +1,10 @@
+E:\TRADE\Sim_live\Sim_live\bin\Debug\Sim_live.exe.config
+E:\TRADE\Sim_live\Sim_live\bin\Debug\Sim_live.exe
+E:\TRADE\Sim_live\Sim_live\bin\Debug\Sim_live.pdb
+E:\TRADE\Sim_live\Sim_live\obj\Debug\Sim_live.csprojAssemblyReference.cache
+E:\TRADE\Sim_live\Sim_live\obj\Debug\Sim_live.Form1.resources
+E:\TRADE\Sim_live\Sim_live\obj\Debug\Sim_live.Properties.Resources.resources
+E:\TRADE\Sim_live\Sim_live\obj\Debug\Sim_live.csproj.GenerateResource.cache
+E:\TRADE\Sim_live\Sim_live\obj\Debug\Sim_live.csproj.CoreCompileInputs.cache
+E:\TRADE\Sim_live\Sim_live\obj\Debug\Sim_live.exe
+E:\TRADE\Sim_live\Sim_live\obj\Debug\Sim_live.pdb
